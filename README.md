@@ -5,3 +5,6 @@
 ## Kontakt
 Autor: Student - Warsztat Programisty
 
+## Uruchomienie
+
+Aplikację uruchamiamy w terminalu.
