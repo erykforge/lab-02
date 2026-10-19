@@ -2,7 +2,6 @@
 
 
 
-\## Kontakt
-
-Autor: Student
+## Kontakt
+Autor: Student - Warsztat Programisty
 
